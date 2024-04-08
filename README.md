@@ -9,6 +9,11 @@ Ph.D. Students:
 3. Koosha Sharifani
 4. Madhulika Itha
 
+M.S. Students:
+
+1. Sumit Dhungana
+2. Neha Yenigalla
+
 Ph.D. Alumni:
 
-1. [Bhupendra Acharya](https://bhupendraacharya.com/)
+1. [Bhupendra Acharya](https://bhupendraacharya.com/) - First employment: Post-doc at [CISPA](https://cispa.de/en) 
