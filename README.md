@@ -16,4 +16,4 @@ M.S. Students:
 
 Ph.D. Alumni:
 
-1. [Bhupendra Acharya](https://bhupendraacharya.com/) - First employment: Post-doc at [CISPA](https://cispa.de/en) 
+1. [Bhupendra Acharya](https://bhupendraacharya.com/) (First employment: Post-doc at [CISPA](https://cispa.de/en)) 
