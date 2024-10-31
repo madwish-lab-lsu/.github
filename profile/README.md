@@ -8,12 +8,17 @@ MAD-WISH is a research lab housed at Lousiana State University that investigates
 2. Anish Chand
 3. Koosha Sharifani
 4. Madhulika Itha
+5. Shibani Das
 
 **M.S. Students**:
 
 1. Sumit Dhungana
-2. Neha Yenigalla
+2. Bassel Succar (jointly advised with Dr. Elias Bou-Harb)
 
 **Ph.D. Alumni**:
 
 1. [Bhupendra Acharya](https://bhupendraacharya.com/) (First employment: Post-doc at [CISPA](https://cispa.de/en)) 
+
+**M.S. Alumni**:
+1. Sekhar Chalise
+2. Neha Yenigalla
