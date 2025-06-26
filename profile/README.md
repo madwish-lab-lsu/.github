@@ -12,8 +12,7 @@ MAD-WISH is a research lab housed at Lousiana State University that investigates
 
 **M.S. Students**:
 
-1. Sumit Dhungana
-2. Bassel Succar (jointly advised with Dr. Elias Bou-Harb)
+1. Bassel Succar (jointly advised with Dr. Elias Bou-Harb)
 
 **Ph.D. Alumni**:
 
@@ -22,3 +21,5 @@ MAD-WISH is a research lab housed at Lousiana State University that investigates
 **M.S. Alumni**:
 1. Sekhar Chalise
 2. Neha Yenigalla
+3. Sumit Dhungana
+
